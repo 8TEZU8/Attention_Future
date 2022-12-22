@@ -509,3 +509,4 @@ try:
   new_model = tf.keras.models.load_model('my_model')
 except:
   print("Can't open file\n")
+  print("Oh my god")
